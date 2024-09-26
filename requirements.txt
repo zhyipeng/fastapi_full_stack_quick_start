@@ -1,0 +1,11 @@
+aiosqlite==0.20.0
+fastapi==0.115.0
+greenlet==3.1.1
+loguru==0.7.2
+pydantic-settings==2.5.2
+pyjwt==2.9.0
+python-multipart==0.0.10
+sqlalchemy==2.0.35
+typer==0.12.5
+uvicorn==0.30.6
+zhtools==1.2.3

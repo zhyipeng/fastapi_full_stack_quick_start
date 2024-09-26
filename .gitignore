@@ -1,0 +1,5 @@
+venv
+.env
+*.py[cd]
+__pycache__
+log
